@@ -1459,7 +1459,14 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
-}
+},
+{
+      artName: "Solar System",
+      pageLink: "./Art/Animae/index.html",
+      imageLink: "./Art/Animae/solar.gif",
+      author: "Arindam Sarkar",
+      githubLink: "https://github.com/sarkar10425"
+    },
 ];
 
 // +--------------------------------------------------------------------------------+
